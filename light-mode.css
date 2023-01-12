@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+
+van-button{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  position:relative;
+  color: white;
+  display:inline-block;
+  box-sizing:border-box;
+  background: #2d2d2f;
+  position: relative;
+  text-align: center;
+  height:44px;
+  margin:0;
+  padding:0;
+  font-size:16px;
+  line-height:1.2;
+  text-align:center;
+  border-radius:8px;
+  cursor:pointer;
+  -webkit-transition:opacity .2s;transition:opacity .2s;
+  -webkit-appearance:none
+}
+
+p{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+a{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h3{
+	font-size: 19px;
+	font-family: 'aileron', sans-serif;
+}
+
+label{
+	font-size: 17px;
+	font-family: 'aileron', sans-serif;
+}
+h4{
+    font-size: 11px;
+	font-family: 'aileron', sans-serif;
+    color: white;
+}
+          * {
+              padding: 0;
+              margin: 0;
+          }
+
+        /*菜单*/
+        *:not(input, checkbox, textarea) {
+            /*禁止文本选择*/
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            user-select: none;
+            /* Non-prefixed version, currently */
+        }
+        
+        .aymenu {
+            position: center;
+            z-index: 1;
+            width: 499px;
+            height: 300px;
+            top: calc(50% - 180px);
+            left: calc(50% - 180px);
+            z-index: 999;
+            background-color: #252226;
+            border-radius: 32px;
+            overflow: hidden;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+          
+                  .aymenu1 {
+            position: center;
+            z-index: 1;
+			border: 2px solid white;
+            width: 240px;
+            height: 360px;
+            top: calc(50% - 180px);
+            left: calc(50% - 180px);
+            z-index: 999;
+            opacity: .9;
+            background-color: rgba(0,0,0,.93);
+            border-radius: 12px;
+            overflow: hidden;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+p { 
+  margin: 0; 
+} 
+input { 
+  display: none; 
+} 
+label { 
+  display: block; 
+  width: 180px;
+  border-radius: 8px;
+  padding: 15px; 
+  color: #A8A8A8; 
+  cursor: pointer; 
+} 
+.verticalLine {
+  border-left: 1px solid white;
+  border-radius: 8px;
+  position: absolute ;
+  top: 57px;
+  left: 190px ;
+  width: 1px ;
+  height: 301px;
+ }
+.gg {
+  position: absolute;
+  bottom: 320px;
+  left: 63px;
+  color: #fff;
+   }
+.imgB1 {
+  z-index: 3;
+}
+.imgB1 {
+  z-index: 3;  
+          }
+   
+  .icon {
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 50px;
+width: 40px;
+  height: 40px;
+  }
+          .speeex {
+position: absolute;
+    margin-left: 384px;
+    margin-top: 57px;
+            color: white;
+            font-size: 15px;
+}
+          .fullbtn {
+position: absolute;
+    margin-left: 438px;
+    margin-top: 13px;
+            color: white;
+            font-size: 22px;
+            background: none;
+            border: none;
+}
+          .darkbtn {
+position: absolute;
+    margin-left: 400px;
+    margin-top: 13px;
+            color: white;
+            font-size: 22px;
+            background: none;
+            border: none;
+}
+          .watr {
+            position: absolute;
+            margin-top: 285px;
+            left: 220px;
+          }
+          bcg-button {
+            max-height: 14px;
+            padding: 14px;
+            border-radius: 8px;
+            width: 290px;
+            background-color: #2d2d2f;
+            color: white;
+            position: absolute;
+}
+          .txtp {
+ font-size: 19px;
+          }
+          .TeamRadar {
+    background-color: #df8a8a;
+  border-radius: 12%;
+  height: 2em;
+  width: 2em;
+  position: absolute;
+top: 13%;
+left: 88%;
+}
+/* Style the tab */
+.tab {
+    float: right;
+    top: 95px;
+    right: 25px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    padding: 5px 20px;
+	width: 100%;
+	background: none; 
+	font-size: 16px;
+	text-decoration: none;
+	color: #939192;
+    border: none;
+    text-align: left;
+}
+/* Change background color of buttons on hover */
+.tab button:hover {
+    color: white;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    color: white;
+}/* Style the tab content */
+.tabcontent {
+    position: relative;
+    float: left;
+    border-radius: 13px;
+    height: 290px;
+    width: 65%;
+    max-height: 290px;
+    overflow-y: scroll;
+    color: white;
+    background: none;
+    left: 3%;
+}
+.van-cell-group {
+background: #2d2d2f;
+overflow-y: scroll;
+  height: 115px;
+  width: 130px;
+  border-radius: 16px;
+}
+hh-button {
+  max-height: 5px;
+            padding: 14px;
+            border-radius: 8px;
+            width: 59px;
+            background-color: #2d2d2f;
+            color: white;
+            position: absolute;
+}
+.pbtn {
+  position: relative;
+  text-align: center;
+  margin-top: -8px;
+}
+.right {
+position: ;
+  margin-left: 133px;
+  margin-top: -113px;
+}
+.logged{
+  color:lime
+}
