@@ -9355,17 +9355,17 @@
       ]
     },
     {
-      "name": "KAMOInstaller",
+      "name": "Ancord Install Helper",
       "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
       "developerName": "",
       "localizedDescription": "",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.AppInstalleriOS.IPA-Installer.png",
+      "iconURL": "https://media.discordapp.net/attachments/1019630197005373511/1187116325089312798/IMG_0360.jpg?ex=6595b73b&is=6583423b&hm=54ca4365ffa20fdc3dca8e6d2040485cdd3ae303a05384aa8bdb8b3b0ecadac4&",
       "versions": [
         {
           "version": "1.0",
           "date": "2023-01-02",
           "size": 1492827,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/KAMOInstaller-1.0.ipa"
+          "downloadURL": "https://github.com/AncordFiles/For-H5GG-speex-/raw/main/Ancord%20Install%20Helper_1.0_1703100798.ipa"
         }
       ]
     },
