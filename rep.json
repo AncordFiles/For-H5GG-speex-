@@ -9,28 +9,18 @@
     "featuredApps": [],
     "apps": [
         {
-            "name": "tapgame prototype",
-            "bundleIdentifier": "dev.bonnie.tapgame",
-            "developerName": "BonnieDev",
-            "subtitle": "idk.",
-            "localizedDescription": "idk",
-            "iconURL": "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/essentials/apple.default.icon.png",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "1.0",
-                  "date": "2022-06-14",
-                  "localizedDescription": "very early test version (it sucks)",
-                  "downloadURL": "https://github.com/Bonnie39/mobile-tapgame/releases/download/build-1/tapgame.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
+           "name": "Ancord Install Helper",
+      "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
+      "developerName": "",
+      "localizedDescription": "",
+      "iconURL": "https://media.discordapp.net/attachments/1019630197005373511/1187116325089312798/IMG_0360.jpg?ex=6595b73b&is=6583423b&hm=54ca4365ffa20fdc3dca8e6d2040485cdd3ae303a05384aa8bdb8b3b0ecadac4&",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2023-01-02",
+          "size": 1492827,
+          "downloadURL": "https://github.com/AncordFiles/For-H5GG-speex-/raw/main/Ancord%20Install%20Helper_1.0_1703100798.ipa"
         }
     ],
-    "news": []
+    "news": [lmao bum]
   }
