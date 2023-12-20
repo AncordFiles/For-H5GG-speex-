@@ -3,23 +3,33 @@
     "subtitle": "Telegram Channel @vernojidev",
     "description": "I host cool apps",
     "iconURL": "https://media.discordapp.net/attachments/1019630197005373511/1187116325089312798/IMG_0360.jpg?ex=6595b73b&is=6583423b&hm=54ca4365ffa20fdc3dca8e6d2040485cdd3ae303a05384aa8bdb8b3b0ecadac4&",
-    "headerURL": "https://avatars.githubusercontent.com/u/73203899?v=4",
-    "website": "https://bonnie39.github.io",
+    "headerURL": "",
+    "website": "https://ancordfiles.github.io",
     "tintColor": "#F54F32",
     "featuredApps": [],
     "apps": [
         {
-           "name": "Ancord Install Helper",
-      "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
-      "developerName": "",
-      "localizedDescription": "",
-      "iconURL": "https://media.discordapp.net/attachments/1019630197005373511/1187116325089312798/IMG_0360.jpg?ex=6595b73b&is=6583423b&hm=54ca4365ffa20fdc3dca8e6d2040485cdd3ae303a05384aa8bdb8b3b0ecadac4&",
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2023-01-02",
-          "size": 1492827,
-          "downloadURL": "https://github.com/AncordFiles/For-H5GG-speex-/raw/main/Ancord%20Install%20Helper_1.0_1703100798.ipa"
+      "name": "Ancord Install Helper",
+            "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
+            "developerName": "Ancord",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://media.discordapp.net/attachments/1019630197005373511/1187116325089312798/IMG_0360.jpg?ex=6595b73b&is=6583423b&hm=54ca4365ffa20fdc3dca8e6d2040485cdd3ae303a05384aa8bdb8b3b0ecadac4&",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [ "https://media.discordapp.net/attachments/1085568776268959787/1187049476091818155/BC370E0E-1551-4CF4-8F96-B52AD55205C1.jpg?ex=659578f9&is=658303f9&hm=9a9ba0359125d4bb41d6621740522ae2f09b1d99bb981d773b3a8e20db65361c&"
+            ],
+            "versions": [
+                {
+                  "version": "1337",
+                  "date": "2023-12-20",
+                  "localizedDescription": "Install Hellper for TrollStore Apps",
+                  "downloadURL": "https://github.com/AncordFiles/For-H5GG-speex-/raw/main/Ancord%20Install%20Helper_1.0_1703100798.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
