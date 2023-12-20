@@ -28,9 +28,10 @@
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
                 }
-                
-        
-            {
+              ],
+            "appPermissions": {}
+        },
+        {
       "name": "TikTokModBHPlus",
             "bundleIdentifier": "lmaobum",
             "developerName": "dvntm",
