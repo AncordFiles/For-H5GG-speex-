@@ -31,6 +31,29 @@
               ],
             "appPermissions": {}
         }
+            {
+      "name": "TikTokModBHPlus",
+            "bundleIdentifier": "lmaobum",
+            "developerName": "dvntm",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [ "https://media.discordapp.net/attachments/1085568776268959787/1187128530224545792/IMG_0388.png?ex=6595c299&is=65834d99&hm=555be41487fe010fbd6febe6317199b8d43a7896ee1741ba1b9fcd0e287c9a15&"
+            ],
+            "versions": [
+                {
+                  "version": "lmaobum",
+                  "date": "2023-12-20",
+                  "localizedDescription": "Mod For TikTok:Vpn,Fake Subscribers and verify,visuals",
+                  "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
     ],
     "news": []
   }
