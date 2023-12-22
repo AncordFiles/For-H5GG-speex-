@@ -31,7 +31,7 @@
               ],
             "appPermissions": {}
         },
-        
+        {
       "name": "TikTokModBHPlus",
             "bundleIdentifier": "1.01",
             "developerName": "dvntm",
@@ -49,14 +49,14 @@
                   "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/BHTikTokPlus-32.6.0-2.3.ipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-      
+    "maxOSVersion": "17.0"
+    {,  
       }
               ],
             "appPermissions": {}
         
         {
-      "name": "Ancord Install Helper",
+      "name": "H5GG App",
             "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
             "developerName": "Ancord",
             "subtitle": "idk.",
