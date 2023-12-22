@@ -54,7 +54,7 @@
       }
               ],
             "appPermissions": {}
-        }
+        
         {
       "name": "Ancord Install Helper",
             "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
